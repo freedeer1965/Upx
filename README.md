@@ -218,4 +218,4 @@ UPX is offered as a **full free version** with all features and updates included
 Don't miss out on the opportunity to optimize your executable files with UPX. **Download UPX free today and experience the benefits!**
 
 ---
-**Last updated:** 2026-09-25 20:12:51 UTC
+**Last updated:** 2026-09-25 23:46:24 UTC
